@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.details-fetch-container {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  color: #000000;
+  font-size: 23px;
+  font-weight: 500;
+  text-align: center;
+}
+.avatar-container {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  height: 13px;
+  width: 13px;
+}
+.author-name {
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+}
+.display-detail-image {
+  height: 45vh;
+  width: 70vw;
+  margin: 10px;
+}
+.content {
+  color: #2f4f4f;
+  font-size: 18px;
+  font-weight: 500;
+}
+.display-details {
+  display: flex;
+  flex-direction: column;
+}
